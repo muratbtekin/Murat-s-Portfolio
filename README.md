@@ -10,12 +10,12 @@ The details are to be found here: https://artscience.ai/divvy-dataviz-case-study
 
 In this project I used Colab in the beginning and downloaded the datasets from here https://www.kaggle.com/datasets/bchen02/google-data-analytics-certificate-bike-share](https://divvy-tripdata.s3.amazonaws.com/index.html
 
+Here is the link to the Colab project: https://colab.research.google.com/drive/1wMdDetjCncKObr7QE2oWTZHytHOvWNW6?usp=sharing
+
 I selected the datasets from August 2020 all the way up to July 2021 so that I could view the change in users' behaviour depending on seasons.
 
 <img width="629" alt="image" src="https://github.com/user-attachments/assets/f8e2fda1-2400-4764-8747-7dc427c37064" />
 
-
-Here is the link to the Colab project: https://colab.research.google.com/drive/1wMdDetjCncKObr7QE2oWTZHytHOvWNW6?usp=sharing
 
 
 ### Combining the Data
