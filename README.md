@@ -74,25 +74,31 @@ In the first graph, we see that the seasons have quite a huge impact on users' t
 
 <img width="1337" alt="image" src="https://github.com/user-attachments/assets/e3b6a3e6-b576-4230-bd00-5631b64a4a25" />
 
+
 In the second graph (below) we see that although the members' ride count thouroughout the week stay almost constant, casual users tend to have more than double on Sundays com when compared to the first 4 days of the week.
 
 <img width="1259" alt="image" src="https://github.com/user-attachments/assets/90983c6b-686d-449d-89a2-b6347ad8fb09" />
+
 
 In the the third graph we see that at 5 pm the demand is at its peak for both the members and the casual users.
 
 <img width="1082" alt="image" src="https://github.com/user-attachments/assets/165cfa35-d4e2-4da4-824f-a9a719cb3086" />
 
+
 In the fourth one we have ride duration in terms of seconds on y-axis and and casual and member on x-axis, we see that casual users tend to have longer lasting rides.
 
 <img width="1106" alt="image" src="https://github.com/user-attachments/assets/bcd02fc5-1481-484b-bbbe-9ab6fc2fd273" />
+
 
 In the fifth graph we see the most popular stations, we see that casual users show great interest in 'Streeter Dr & Grand Ave' and 'Theater on the Lake' stations during the weekend.
 
 <img width="1343" alt="image" src="https://github.com/user-attachments/assets/56b7c7b7-45ad-44b9-a6dc-84e57fc05c8e" />
 
+
 In the sixth one we see a scatter map of stations and the density of blue collar indicate the amplitude of demand, green lines indicate bike friendly roads (it is a layer in google maps). 
 
 <img width="1338" alt="image" src="https://github.com/user-attachments/assets/efe92647-498c-4f22-97fe-e8538672b85f" />
+
 
 When we zoom in on the most in-demand area, spanning longitudes from -87.60 to -87.65 and latitudes from 41.90 to 41.85, we can see the names of the roads up close
 
