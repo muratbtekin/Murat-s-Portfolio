@@ -1,19 +1,18 @@
 # Murat-s-Portfolio
-Analytics Portfolio
 
-What was asked?
+## What was asked?
 
 Director of the marketing believes that the company's success depend on converting casual users to annual members. Hence she asks me (I am a junior data analyst) to provide insights through data visualizations in order to convince the executive team.
 
 The details are to be found here: https://artscience.ai/divvy-dataviz-case-study/
 
-Gathering the Data
+### Gathering the Data
 
 In this project I first downloaded the datasets from here https://www.kaggle.com/datasets/bchen02/google-data-analytics-certificate-bike-share](https://divvy-tripdata.s3.amazonaws.com/index.html
 
 I selected the datasets from August 2020 all the way up to July 2021 so that I could view the change in users' behaviour depeding on seasons.
 
-Combining the Data
+### Combining the Data
 
 I first used Colab, utilizing python to join 12 datasets.
 
