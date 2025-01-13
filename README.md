@@ -14,12 +14,13 @@ I selected the datasets from August 2020 all the way up to July 2021 so that I c
 
 <img width="629" alt="image" src="https://github.com/user-attachments/assets/f8e2fda1-2400-4764-8747-7dc427c37064" />
 
+
 Here is the link to the Colab project: https://colab.research.google.com/drive/1wMdDetjCncKObr7QE2oWTZHytHOvWNW6?usp=sharing
 
 
 ### Combining the Data
 
-I first used Colab, utilizing python to join 12 datasets.
+Then I joined the 12 datasets.
 
 <img width="811" alt="image" src="https://github.com/user-attachments/assets/553385db-bd59-4fcc-8088-2face56795a4" />
 
@@ -30,15 +31,24 @@ I first used Colab, utilizing python to join 12 datasets.
 
 Then I changed the data type of started_at and ended_at from object to datetime and subtracted started_at from ended_at to derive the 'duration' column.
 
+<img width="596" alt="image" src="https://github.com/user-attachments/assets/ea01397f-7ff4-422d-9e6d-db7805367d83" />
+<img width="663" alt="image" src="https://github.com/user-attachments/assets/a4b80244-6adf-41dc-87ef-bf884389fa6e" />
+
 Thereafter I dropped the rows where the duration is less than 0.
 
 The rows where 'start_station_name', 'start_station_id', 'end_station_name', 'end_station_id' values were empty, were also dropped to have a more robust dataset.
+
+<img width="1030" alt="image" src="https://github.com/user-attachments/assets/9c3a5e17-6a50-446d-9f11-edd1ca873b46" />
+
 
 After the aforementioned steps, I moved on with Dataiku to further process the data, yet I resorted to using Python again when I felt the need to do so.
 
 Using Dataiku's preparation steps, I derived the 'Weekend' column, utilizing One-Hot Coding method to prepare the dataset for Machine Learning algorithms.
 
 'Casual' column was derived, if the user is a member the value will be 0, otherwise 1.
+
+<img width="286" alt="image" src="https://github.com/user-attachments/assets/e0c400c4-6bb2-452e-ab65-560a0f8a2028" />
+
 
 Created a column using 'day_name' function:
 
