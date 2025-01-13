@@ -98,27 +98,27 @@ When we zoom in on the most in-demand area, spanning longitudes from -87.60 to -
 
 <img width="1341" alt="image" src="https://github.com/user-attachments/assets/fe1344dc-1370-42e9-a992-ea5fda3346e7" />
 
-# Conclusions:
+# Conclusions:
 
-## Suggestions:​
+## Suggestions:​
 
-### Seasonal Offers:​
+### Seasonal Offers:​
 
 Winter discounts to encourage off-season membership sign-ups.​
 
-### Flexible Membership Options:​
+### Flexible Membership Options:​
 
 Introduce short-term or weekend-only memberships targeting leisure-oriented riders.​
 
-### Leverage Data on Popular Stations:​
+### Leverage Data on Popular Stations:​
 
 Launch localized campaigns near high-usage stations to target casual users at the point of engagement.​
 
-### Highlight Cost Savings:​
+### Highlight Cost Savings:​
 
 Compare casual vs. member pricing over time to demonstrate significant savings for frequent riders.​
 
-### Enhanced Member Perks:​
+### Enhanced Member Perks:​
 
 Offer benefits like free extended rides, exclusive promotions, or partner discounts to make membership more appealing.​
 
